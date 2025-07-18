@@ -8,7 +8,7 @@ It uses natural language processing (NLP) techniques to analyze movie overviews,
 
 ## 📁 Dataset and Model
 
-Due to GitHub's file size limits, the trained model (`similarity.pkl`) is **not** included in the repository.
+Due to GitHub's file size limits, the trained model  is **not** included in the repository.
 
 👉 **Download it from Google Drive:**  
 [📥 https://drive.google.com/drive/folders/1y0KrGSYr4JoiROlJeyZQWw8vRyTZsXaG?usp=sharing]
